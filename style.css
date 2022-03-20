@@ -110,3 +110,11 @@ body {
 .modal-background[show="true"] {
     opacity: 1;
 }
+
+
+/* */
+
+.counter {
+    position: absolute;
+    bottom: 0;
+}
